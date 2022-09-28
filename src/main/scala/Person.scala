@@ -1,0 +1,2 @@
+
+case class Person(ID: String, Username: String, Userage: Int, PhoneType: String, Click: Int, LoginTime: String, Address: String, BookAuthor: String, BookGenre: String, BookPublisher: String, BookTitle: String, BeerName: String, BeerHop: String, BeerStyle: String, AnimalName: String, AncientGod: String, AncientHero: String, AncientPrimordial: String, AncientTitan: String, AppName: String, AppAuthor: String, AppVersion: String)
